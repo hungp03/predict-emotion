@@ -1,4 +1,4 @@
-# Emotion Recognition using CNN with ESP32
+# Emotion Recognition using CNN
 ### Overview
 This project focuses on recognizing emotions from speech using Convolutional Neural Networks (CNNs). We extract features using MFCC (Mel-Frequency Cepstral Coefficients). The dataset includes CREMA-D, TESS, RAVDESS and additional self-collected data to improve model performance.
 
